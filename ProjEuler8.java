@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class ProjEuler7{
+public class ProjEuler8{
 	static long finale=0;
 
 	public static void method(String number){  // Converts string to character array

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class ProjEuler6{
+public class ProjEuler7{
 	static int size=0;
 
 	public static boolean contain(int[] array,int yo){
